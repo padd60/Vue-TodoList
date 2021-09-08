@@ -1,24 +1,10 @@
-# todolist
+# todolist 어플 만들기
 
-## Project setup
-```
-npm install
-```
+- 리스트 입력
+- 리스트 등록
+- 리스트 삭제
+- 리스트 전체삭제
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## firebase 페이지 주소
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://vue-todolist-b04d8.web.app/
